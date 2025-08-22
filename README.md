@@ -1,5 +1,7 @@
 # ***Chess Game***
 
+# **Chess Game Play: https://shinhasarder.github.io/chessgameproject/**
+
 # **Abstract**
 
 This project presents the design and development of a web-based chess
