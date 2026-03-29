@@ -1,6 +1,6 @@
 # ***Chess Game***
 
-# **Chess Game Play: https://shinhasarder.github.io/chessgameproject/**
+# **Chess Game Play: [https://shinhasarder.github.io/chessgameproject](https://md-shinha-sarder.github.io/chessgameproject/)**
 
 
 
